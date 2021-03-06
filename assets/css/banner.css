@@ -1,0 +1,45 @@
+
+.header {
+   height: 50vh;
+   background-image: 
+   linear-gradient(to right bottom, 
+   rgba(255, 76, 76, 0.8),
+   rgba(217, 30, 30, 0.8)),
+   url('http://www.thyssenkruppelevadores.com.br/blog/wp-content/uploads/2018/06/banner-site-1140x450.png');
+   
+ background-size: cover;
+   background-position: top;
+   position: relative;
+
+}
+
+
+.text-box {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   text-align: center;
+}
+
+.heading-primary {
+   color: #fff;
+   text-transform: uppercase;
+
+   backface-visibility: hidden;
+   margin-bottom: 30px;
+}
+
+.heading-primary-main {
+   display: block;
+   font-size: 26px;
+   font-weight: 400;
+   letter-spacing: 5px;
+}
+
+.heading-primary-sub {
+   display: block;
+   font-size: 18px;
+   font-weight: 700;
+   letter-spacing: 7.4px;
+}

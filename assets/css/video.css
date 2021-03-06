@@ -1,0 +1,99 @@
+@media screen and (max-width: 3000px) {
+    .video{
+
+ 
+        width:98%;
+        height:800px;
+
+        position:relative;
+        margin-left:1%;
+        margin-right:1%;
+      
+        margin-top: 0.2%;
+      }
+      
+}
+
+
+@media screen and (max-width: 1680px) {
+    .video{
+
+ 
+        width:98%;
+        height:800px;
+
+        position:relative;
+        margin-left:1%;
+        margin-right:1%;
+      
+        margin-top: 0.2%;
+      }
+      
+}
+
+@media screen and (max-width:1117px){
+    .video{
+
+ 
+        width:98%;
+        height:500px;
+
+        position:relative;
+        margin-left:1%;
+        margin-right:1%;      
+        margin-top: 0.9%;
+      }
+}
+
+
+@media screen and (max-width:400px){
+    .video{
+
+ 
+        width:98%;
+        height:400px;
+
+        position:relative;
+        margin-left:1%;
+        margin-right:1%;
+      
+        margin-top: 0.2%;
+      }
+	
+}
+@media screen and (max-width:320px){
+    .video{
+
+ 
+        width:98%;
+        height:320px;
+
+        position:relative;
+        margin-left:1%;
+        margin-right:1%;
+      
+        margin-top: 0.2%;
+      }
+	
+}
+	
+@media screen and (max-width: 200px) {
+
+    .video{
+
+ 
+        width:98%;
+        height:200px;
+
+        position:relative;
+        margin-left:1%;
+        margin-right:1%;
+      
+        margin-top: 0.2%;
+      }
+	
+  }
+
+
+
+ 
